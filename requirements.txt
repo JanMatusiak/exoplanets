@@ -1,0 +1,13 @@
+pandas 
+numpy 
+scikit-learn 
+matplotlib 
+plotly 
+scipy 
+statsmodels 
+pywavelets 
+torch 
+torchvision 
+torchaudio 
+streamlit 
+gradio
